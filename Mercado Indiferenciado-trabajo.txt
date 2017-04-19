@@ -2,16 +2,33 @@
 
 
 
-#Mercado Indiferenciado
-
 #Mercados
 
+#Mercado Indiferenciado
+
+Para Bain, citado por Redmond (1992), la diferenciación de un mercado presenta dos caras,
+por un lado se puede considerar como un descriptor de las características de
+la estructura de ese mercado, y por el otro se presenta como una barrera a la 
+entrada de nuevos competidores.    
+
+#Mercadeo Indiferenciado
+
+
+
+#Estrategia
+
+
+#Diferenciación
+
+#Posicionamiento
 
 #Segmentación
 
+#Indiferenciado
 
+#Diferenciado
 
-
+#Concentrado
 
 #Conclusiones
 
